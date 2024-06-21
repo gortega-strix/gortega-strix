@@ -3,24 +3,24 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />✌🏻😎 Gabriel Ortega</h2>
 
 <p align='center'>
-Durante los últimos 5 años he trabajado como QA en diferentes empresas y proyectos de software. Mi experiencia me ha permitido adquirir amplios conocimientos en el área de pruebas de software, así como habilidades en identificación y corrección de errores, diseño y ejecución de pruebas y gestión de proyectos de pruebas. Tanto manuales como automatizados. Además, he desarrollado habilidades efectivas de comunicación y trabajo en equipo, que me permiten colaborar de manera óptima con desarrolladores, gerentes de proyectos y otros miembros del equipo. Soy una persona organizada, detallista y orientada a resultados, capaz de trabajar en entornos de alta presión y con plazos ajustados.
+Durante los últimos 6 años he trabajado como QA en diferentes empresas y proyectos de software. Mi experiencia me ha permitido adquirir amplios conocimientos en el área de pruebas de software, así como habilidades en identificación y corrección de errores, diseño y ejecución de pruebas y gestión de proyectos de pruebas. Tanto manuales como automatizados. Además, he desarrollado habilidades efectivas de comunicación y trabajo en equipo, que me permiten colaborar de manera óptima con desarrolladores, gerentes de proyectos y otros miembros del equipo. Soy una persona organizada, detallista y orientada a resultados, capaz de trabajar en entornos de alta presión y con plazos ajustados.
 </p>
 
 ## 💻 Mi Stack 💻
 
-### Languajes
+### 👨🏻‍💻 Lenguajes
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
-### Bases de Datos
+### 👨🏻‍💻 Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
 
-### Herramientas
+### :hammer_and_wrench: Herramientas
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
