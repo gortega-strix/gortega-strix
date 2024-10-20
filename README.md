@@ -8,43 +8,50 @@ Durante los últimos 6 años he trabajado como QA en diferentes empresas y proye
 
 ## 💻 Mi Stack 💻
 
-### 👨🏻‍💻 Lenguajes
+### 👨🏻‍💻 Lenguajes 👨🏻‍💻
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
-### 👨🏻‍💻 Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
-
-### :hammer_and_wrench: Herramientas
+### 🌐 Cloud Computing 🌐
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" **alt="Selenium" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="Amazon Web Services" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
-### Control de Versiones
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+### 🗃️ Bases de Datos 🗃️
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="50" height="50"/>&nbsp;
+</div>
 
-### Metodologías Ágiles
-![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white)
+### 🛠️ Herramientas 🛠️
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" **alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original-wordmark.svg" title="Rancher" **alt="Rancher" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" **alt="GitHub Actions" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" **alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+</div>
 
-### 📬 Contáctame
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5491165209951)](https://api.whatsapp.com/send?phone=5491165209951)
+### 🔀 Control de Versiones 🔀
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="50" height="50"/>&nbsp;
+</div>
+
+### 🎯 Metodologías Ágiles 🎯
+![Scrum](https://img.shields.io/badge/Scrum-green?style=for-the-badge&logo=Scrum&logoColor=white)&nbsp;
+![Kanban](https://img.shields.io/badge/Kanban-red?style=for-the-badge&logo=Kanban&logoColor=white)&nbsp;
+
+### 📨 Contáctame 📨
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5491165209951)](https://api.whatsapp.com/send?phone=5491165209951)
 
 <p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Gracias por Visitar!
 
