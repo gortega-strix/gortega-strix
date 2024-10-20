@@ -11,7 +11,6 @@ Durante los últimos 6 años he trabajado como QA en diferentes empresas y proye
 ### 👨🏻‍💻 Lenguajes 👨🏻‍💻
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
@@ -30,6 +29,7 @@ Durante los últimos 6 años he trabajado como QA en diferentes empresas y proye
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" **alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original-wordmark.svg" title="Rancher" **alt="Rancher" width="40" height="40"/>&nbsp;
