@@ -37,6 +37,7 @@ Durante los últimos 6 años he trabajado como QA en diferentes empresas y proye
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" **alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/k6/k6-original.svg" title="K6" **alt="K6" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🔀 Control de Versiones 🔀
